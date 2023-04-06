@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100%;
+}
+* {
+  text-decoration: none;
+  list-style: none;
+  margin: 0%;
+  scroll-behavior: smooth;
+  padding: 0;
+}
+
+.exemple-form {
+  width: 1000px;
+  height: 700px;
+  margin-left: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  margin: 10px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.taille {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.condition {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
